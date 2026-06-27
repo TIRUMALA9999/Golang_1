@@ -11,4 +11,4 @@ func main(){
 	nums2 := [5]int{1, 2}   //automatically assign zeroes to unspecifies numbers.
 	fmt.Println(nums2) // [1 2 0 0 0]
 
-}
+} 
